@@ -78,6 +78,7 @@ namespace Number_Memory_Test
         }
 
         // Display the array of numbers to be remembered
+        // This will become obsolete and updated with GUI
         static public void displaySystem(int[] nums, int amount)
         {
             Console.Clear();
